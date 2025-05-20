@@ -4,7 +4,7 @@ This repo contains code for **DarkNet**, a submission for **CIKM 2025**, along w
 
 The architecture below provides a visual breakdown of the core components of the model:
 
-![Model Architecture](model/darknet.pdf)
+![Model Architecture](rag/darknet.jpg)
 ---
 
 ## Step 0: Setup

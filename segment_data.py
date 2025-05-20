@@ -21,13 +21,13 @@ def get_image_path(dir_path):
 
 train_images = []
 for i in tqdm(range(len(train_df)), desc='Loading train images'):
-        path = f'/media/iiit/Karvalo/zuhair/darkhumour2/final_data/final_data/Train/Posts/trn-{i+1}/'
+        path = f'final_data/Train/Posts/trn-{i+1}/'
         path = get_image_path(path)
         train_images.append(path)
         
 test_images = []
 for i in tqdm(range(len(test_df)), desc='Loading test images'):
-        path = f'/media/iiit/Karvalo/zuhair/darkhumour2/final_data/final_data/Test/Posts/tst-{i+1}/'
+        path = f'final_data/Test/Posts/tst-{i+1}/'
         path = get_image_path(path)
         test_images.append(path)
 

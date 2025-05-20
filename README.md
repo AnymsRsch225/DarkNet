@@ -56,6 +56,9 @@ python segment_data.py
 **Note:** For SAM installation and setup, please follow the instructions at:  
 [https://github.com/facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
 
+
+If you also want to skip this step, you can download this zip file and unzip it and put it in DarkNet/sam/.
+Segemented dataset here: **[[link](https://drive.google.com/file/d/1vzOKmLz7dvdoHR0GJO0Q3qosi8EAlh-I/view?usp=sharing)]** 
 ---
 
 ## Step 3: RAG Creation with CLIP & BGE

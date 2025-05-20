@@ -1,12 +1,13 @@
-# DarkNet
+# DarkNet  
 
 This repo contains code for **DarkNet**, a submission for **CIKM 2025**, along with the dataset.
+---
 
 The architecture below provides a visual breakdown of the core components of the model:
 
 ![Model Architecture](rag/darknet.jpg)
----
 
+---
 ## Step 0: Setup
 
 Create and activate a virtual environment using Python 3.8.10:
